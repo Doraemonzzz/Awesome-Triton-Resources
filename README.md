@@ -25,7 +25,7 @@
 21. [Block-sparse matrix multiplication kernels](https://github.com/stanford-futuredata/stk)
     1.  https://openreview.net/pdf?id=doa11nN5vG
 22. [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes/tree/main/bitsandbytes/triton)
-23. [flex-attention](https://pytorch.org/blog/flexattention/)
+23. [flex-attention](https://github.com/pytorch/pytorch/blob/main/torch/_inductor/kernel/flex_attention.py)
     1.  https://pytorch.org/blog/flexattention/
     2.  https://github.com/pytorch-labs/attention-gym
 24. [conv](https://github.com/pytorch/pytorch/blob/main/torch/_inductor/kernel/conv.py)
