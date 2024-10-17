@@ -31,7 +31,12 @@
 24. [conv](https://github.com/pytorch/pytorch/blob/main/torch/_inductor/kernel/conv.py)
 25. [lightning_attention](https://github.com/Doraemonzzz/lightning_attention)
 26. [int mm](https://github.com/pytorch/ao/blob/main/torchao/kernel/intmm_triton.py)
-
+27. [low-bit matmul kernels](https://github.com/mobiusml/gemlite)
+28. [linear cross entropy](https://github.com/JonasGeiping/linear_cross_entropy_loss)
+29. [optimized_hf_llama_class_for_training](https://github.com/SeunghyunSEO/optimized_hf_llama_class_for_training)
+30. [kernel-hyperdrive](https://github.com/mayank31398/kernel-hyperdrive)
+31. [scattermoe](https://github.com/shawntan/scattermoe)
+32. [triton-dejavu](https://github.com/IBM/triton-dejavu)
 
 
 
