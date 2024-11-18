@@ -37,6 +37,8 @@
 30. [kernel-hyperdrive](https://github.com/mayank31398/kernel-hyperdrive)
 31. [scattermoe](https://github.com/shawntan/scattermoe)
 32. [triton-dejavu](https://github.com/IBM/triton-dejavu)
+33. [Triformer](https://github.com/dame-cell/Triformer)
+34. [σ-MoE layer](https://github.com/RobertCsordas/moe_layer)
 
 
 
