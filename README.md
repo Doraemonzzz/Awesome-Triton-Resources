@@ -40,6 +40,8 @@
 33. [Triformer](https://github.com/dame-cell/Triformer)
 34. [σ-MoE layer](https://github.com/RobertCsordas/moe_layer)
 35. [fast linear attn](https://github.com/NVlabs/Sana/tree/main/diffusion/model/nets/fastlinear)
+36. [EmbeddingBag](https://github.com/facebookresearch/memory/blob/main/lingua/product_key/xformer_embeddingbag.py)
+37. [tccl](https://github.com/cchan/tccl)
 
 
 
