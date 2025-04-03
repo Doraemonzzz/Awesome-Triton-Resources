@@ -42,6 +42,7 @@
 35. [fast linear attn](https://github.com/NVlabs/Sana/tree/main/diffusion/model/nets/fastlinear)
 36. [EmbeddingBag](https://github.com/facebookresearch/memory/blob/main/lingua/product_key/xformer_embeddingbag.py)
 37. [tccl](https://github.com/cchan/tccl)
+38. [ibm-cute-kernels](https://github.com/mayank31398/cute-kernels)
 
 
 
